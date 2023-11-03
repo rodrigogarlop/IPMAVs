@@ -37,7 +37,7 @@ To run the code:
 - Most of the code was written on Rbase for maximum compatibility, except for R libraries "vioplot" and "stringr"
 
 ## Credits
-The R scripts in this directory have been written by Rodrigo García-López for Carlos Arias's Virology Group at IBt, UNAM, Cuernavaca, Mexico as part of the Mexican Consortium for Genomic surveillance (CoViGen-Mex).
+The R scripts in this directory have been written by Rodrigo García-López for Carlos Arias' Virology Group at IBt, UNAM, Cuernavaca, Mexico as part of the Mexican Consortium for Genomic surveillance (CoViGen-Mex).
 We acknowledge the Mexican Consortium for Genomic surveillance Mexicano de Vigilancia Genómica (CoViGen-Mex), the Mexican Institute of Social Security (IMSS) and the authors from the originating laboratories that collected the samples, the sequencing laboratories that produced the genomic sequences, available at GISAIDs Epicov database (EPI_SET ID: EPI_SET_231031gz for full list of authors). We appreciate the computer assistance provided by Jerome Verleyen, and Juan Manuel Hurtado, as well as the project LANCAD-UNAM-DGTIC-396 of the Dirección General de Cómputo y Tecnologías de la Información (DGTIC-UNAM) which provided supercomputing resources in MIZTLI.
 
 ### FULL CITATION
